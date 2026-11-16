@@ -53,3 +53,5 @@ La segmentación mediante VLAN constituye una alternativa para organizar redes e
 ## 8. Recurso gráfico
 
 El repositorio incluye una ilustración conceptual de la topología propuesta. Esta imagen representa el diseño lógico y no constituye evidencia de una simulación ejecutada.
+<img width="1571" height="1001" alt="Infografía de red empresarial con VLAN" src="https://github.com/user-attachments/assets/5317c9cc-a47b-4774-871f-118aec08e0cd" />
+
